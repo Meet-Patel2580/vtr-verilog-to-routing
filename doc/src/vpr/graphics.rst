@@ -41,7 +41,7 @@ A graphical window will now pop up when you run VPR.
 
 Navigation
 ----------
-Click on **Zoom-Fit** buttons to zoom the view.
+Click on the **Zoom-Fit** button to get an over-encompassing view of the circuit architecture.
 Click and drag with the left mouse button to pan the view, or scroll the mouse wheel to zoom in and out.
 Click on the **Window**, then on the diagonally opposite corners of a box, to zoom in on a particular area.
 
